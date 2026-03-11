@@ -128,3 +128,7 @@ g++ -std=c++17 -o cgpa  task1_cgpa_calculator.cpp
 g++ -std=c++17 -o login task2_login_system.cpp
 g++ -std=c++17 -o bank  task4_banking_system.cpp
 ```
+
+## Author
+**AVUGADDI HARIN RAJADITYA**  
+CodeAlpha C++ Intern
